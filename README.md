@@ -2,14 +2,14 @@
 
 <h2> Hey there! I'm Myo Thet Maung</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h1> 👨🏻‍💻 &nbsp;About Me </h1>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and related online.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+# 💻Tech Stack
 
 - 💻 &nbsp;
   ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
@@ -30,12 +30,21 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
+<br>
 
-<br/>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=MyoThetMaung&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MyoThetMaung&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoThetMaung&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MyoThetMaung&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
 
