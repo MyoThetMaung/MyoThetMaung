@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Myo Thet Maung</h2>
+
 
 <h1> 👨🏻‍💻 &nbsp;About Me </h1>
 
