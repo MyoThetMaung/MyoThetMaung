@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-# 💻Tech Stack
+# 💻 Tech Stack
 
 - 💻 &nbsp;
   ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
