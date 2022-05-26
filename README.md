@@ -1,4 +1,4 @@
-<img  alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 
 <h2> Hey there! I'm Myo Thet Maung</h2>
 
